@@ -2,7 +2,8 @@
 
 <p align="left">
   <img src='https://img.shields.io/badge/License-MIT-red'>
-  <img src='https://img.shields.io/badge/python-3.8+-blue'>
+  <img src='https://img.shields.io/badge/python-3.8-blue'>
+  <img src='https://img.shields.io/badge/TensorFlow-2.5-blue'>
 </p> 
 
 ## Public Datasets
